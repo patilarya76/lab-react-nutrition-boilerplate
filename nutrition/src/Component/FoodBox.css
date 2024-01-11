@@ -1,0 +1,23 @@
+.box{
+    display:flex;
+    align-items:center;
+    width:160%;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.media{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.field{
+    display: flex;
+}   
+body{
+    background-color: rgb(239, 227, 209);
+    
+}
